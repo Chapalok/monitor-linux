@@ -1,0 +1,72 @@
+----- Metrics Snapshot -----
+CPU Core 0: 0%
+CPU Core 1: 0%
+CPU Core 2: 0%
+CPU Core 3: 0%
+Memory Used: 721 MB
+Memory Free: 7085 MB
+-----------------------------
+----- Metrics Snapshot -----
+CPU Core 0: 0%
+CPU Core 1: 0%
+CPU Core 2: 0%
+CPU Core 3: 0%
+Memory Used: 723 MB
+Memory Free: 7083 MB
+-----------------------------
+----- Metrics Snapshot -----
+CPU Core 0: 0%
+CPU Core 1: 0%
+CPU Core 2: 0%
+CPU Core 3: 0%
+Memory Used: 723 MB
+Memory Free: 7083 MB
+-----------------------------
+----- Metrics Snapshot -----
+CPU Core 0: 0%
+CPU Core 1: 0%
+CPU Core 2: 0%
+CPU Core 3: 0%
+Memory Used: 723 MB
+Memory Free: 7083 MB
+-----------------------------
+----- Metrics Snapshot -----
+CPU Core 0: 0%
+CPU Core 1: 0%
+CPU Core 2: 5%
+CPU Core 3: 0%
+Memory Used: 723 MB
+Memory Free: 7083 MB
+-----------------------------
+----- Metrics Snapshot -----
+CPU Core 0: 0%
+CPU Core 1: 0%
+CPU Core 2: 0%
+CPU Core 3: 0%
+Memory Used: 731 MB
+Memory Free: 7075 MB
+-----------------------------
+----- Metrics Snapshot -----
+CPU Core 0: 0%
+CPU Core 1: 0%
+CPU Core 2: 0%
+CPU Core 3: 0%
+Memory Used: 727 MB
+Memory Free: 7079 MB
+-----------------------------
+----- Metrics Snapshot -----
+CPU Core 0: 0%
+CPU Core 1: 0%
+CPU Core 2: 0%
+CPU Core 3: 0%
+Memory Used: 730 MB
+Memory Free: 7076 MB
+-----------------------------
+----- Metrics Snapshot -----
+CPU Core 0: 0%
+CPU Core 1: 0%
+CPU Core 2: 0%
+CPU Core 3: 0%
+Memory Used: 730 MB
+Memory Free: 7076 MB
+-----------------------------
